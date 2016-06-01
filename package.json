@@ -1,0 +1,27 @@
+{
+  "name": "ram-cityworks",
+  "version": "0.1.0",
+  "description": "Hash check input password against Cityworks password.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdclaw3/ram-cityworks.git"
+  },
+  "author": "Dee Clawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdclaw3/ram-cityworks/issues"
+  },
+  "homepage": "https://github.com/kdclaw3/ram-cityworks#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
